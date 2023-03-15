@@ -16,7 +16,7 @@ Data source is from Kaggle.com at the following URL for [Heart Data](https://www
 
 The data is for 912 patients in four different countries and assesses the risk of a heart attack with basic health information. This project will use ML and EDA to try and determine the most important risk factors for heart disease and a potential heart attack.
 
-# [Project 3: Lawler's Law predictor for basketball game winner](https://github.com/angelosg/Project_1)
+# [Project 3: Lawler's Law predictor for basketball game winner](https://github.com/angelosg/Lawler-s-law)
 This project was a dive into machine learning methods by looking at Lawler's law. Lawler's law states that the first team to score 100 points in an NBA basketball game will win the game. I have looked at several factors like higher scoring games in today's game reducing effectiveness of Lawler's law prediction.
 
 I have performed some EDA and a couple machine learning models including random forest and decision trees.
