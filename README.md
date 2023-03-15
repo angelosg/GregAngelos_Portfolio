@@ -1,4 +1,4 @@
-# GregAngelos_Portfolio
+# Data Science Portfolio
 
 1) Here is my first project
 
