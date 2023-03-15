@@ -21,5 +21,4 @@ This project was a dive into machine learning methods by looking at Lawler's law
 
 I have performed some EDA and a couple machine learning models including random forest and decision trees.
 
-4) Here is my fourth project
-
+# Project 4 
