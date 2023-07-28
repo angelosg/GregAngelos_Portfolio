@@ -21,4 +21,5 @@ This project was a dive into machine learning methods by looking at Lawler's law
 
 I have performed some EDA and a couple machine learning models including random forest and decision trees.
 
-# Project 4 
+# [Project 4: PhD Thesis summary](https://github.com/angelosg/Thesis)
+This project is a summary of my PhD thesis. It introduces the abstract and provides a link to my thesis document. 
