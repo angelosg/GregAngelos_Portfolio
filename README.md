@@ -1,4 +1,6 @@
-c# Data Science Portfolio
+# Data Science Portfolio
+
+[Link to digital resume](https://angelosg.github.io/digital-resume/)
 
 # JELLYFISH for Scratch
 
