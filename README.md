@@ -1,4 +1,4 @@
-# Data Science Portfolio
+c# Data Science Portfolio
 
 # JELLYFISH for Scratch
 
@@ -25,3 +25,4 @@ I have performed some EDA and a couple machine learning models including random 
 
 # [Project 4: PhD Thesis summary](https://github.com/angelosg/Thesis)
 This project is a summary of my PhD thesis. It introduces the abstract and provides a link to my thesis document. 
+[Link to download](https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/vh53x1116?locale=en)
