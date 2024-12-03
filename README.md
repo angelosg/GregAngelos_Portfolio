@@ -2,7 +2,6 @@
 
 [Link to digital resume](https://angelosg.github.io/digital-resume/)
 
-# JELLYFISH for Scratch
 
 # [Project 1: NLP project that classifies philosophers based on essays and generates text](https://github.com/angelosg/Philospher-project)
 Using this [data set](https://www.kaggle.com/datasets/christopherlemke/philosophical-texts?resource=download), I endeavored to fine tune a model that would allow us to use transformers for text generation of random philosophical tautology in the style of a particular philosopher.
